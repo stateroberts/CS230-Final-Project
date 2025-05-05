@@ -2,7 +2,7 @@
 Name:       Skylar Roberts, Kyle Marvin, Michael Doria, Isaiah Timas
 CS230:      Section 7
 Data:       NY Housing Market
-URL:        Link to your web application on Streamlit Cloud (if posted)
+URL:        https://cs230-final-project-cw58snrfetwozbstsjazqs.streamlit.app/
 
 Description:
 This program allows users to filter their housing search based on a number of characteristics
